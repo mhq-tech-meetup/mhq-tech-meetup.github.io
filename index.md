@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Mariehamn Tech Meetup is a meetup group where we get together to present or discuss stuff related to software engineering, automation and other. [Join us!](https://www.meetup.com/Mariehamn-Tech-Meetup/)
