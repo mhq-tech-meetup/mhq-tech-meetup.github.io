@@ -1,0 +1,23 @@
+title: Mariehamn Tech Meetup
+email: mats.lundberg@gmail.com
+description: >- #
+  Interested in software development, automation or tech and live in the in or around the metropolis of Mariehamn? Then join us!
+baseurl: "" 
+url: "" 
+#twitter_username: jekyllrb
+github_username:  mariehamn-tech-meetup
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
